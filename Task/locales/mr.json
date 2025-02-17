@@ -1,0 +1,23 @@
+{
+  "login": "लॉगिन",
+  "chooseLanguage": "भाषा निवडा",
+  "email": "तुमचा ईमेल प्रविष्ट करा",
+  "password": "तुमचा पासवर्ड प्रविष्ट करा",
+  "welcome": "स्वागत आहे",
+  "logout": "लॉगआउट",
+  "name": "नाव",
+  "register": "नोंदणी करा",
+  "newUser": "नवीन वापरकर्ता?",
+  "invalidCredentials": "कृपया वैध ईमेल आणि पासवर्ड प्रविष्ट करा",
+  "already_registered": "आधीच नोंदणीकृत आहात का?",
+  "nameValidation": "नाव किमान 3 अक्षरे असावे",
+  "emailValidation": "अवैध ईमेल",
+  "requiredEmail": "ईमेल आवश्यक आहे",
+  "minPassword": "किमान 6 अक्षरे",
+  "uppercase": "1 मोठे अक्षर आवश्यक",
+  "lowercase": "पासवर्डमध्ये किमान एक लहान अक्षर असणे आवश्यक आहे",
+  "number": "1 नंबर आवश्यक",
+  "requiredPassword": "पासवर्ड आवश्यक आहे",
+  "confirmPassword": "पासवर्ड जुळत नाही",
+  "requiredConfirmPassword": "कन्फर्म पासवर्ड आवश्यक आहे"
+}
