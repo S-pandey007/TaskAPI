@@ -49,7 +49,7 @@ The `assets` folder contains media files such as images and videos. These files 
 
 ### Images
 
-<img src="./Task/assets/Media/image1.jpg" alt="Image 1" width="500" height="200">
+<img src="./Task/assets/Media/image1.jpg" alt="Image 1" width="500" height="500">
 <img src="./Task/assets/Media/image2.jpg" alt="Image 2" width="300" height="200">
 <img src="./Task/assets/Media/image3.jpg" alt="Image 3" width="300" height="200">
 <img src="./Task/assets/Media/image4.jpg" alt="Image 4" width="300" height="200">
