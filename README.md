@@ -49,24 +49,27 @@ The `assets` folder contains media files such as images and videos. These files 
 
 ### Images
 
-![Image 1](./Task/assets/Media/image1.jpg)
-![Image 2](./Task/assets/Media/image2.jpg)
-![Image 3](./Task/assets/Media/image3.jpg)
-![Image 4](./Task/assets/Media/image4.jpg)
-![Image 5](./Task/assets/Media/image5.jpg)
-![Image 6](./Task/assets/Media/image6.jpg)
-![Image 8](./Task/assets/Media/image7.jpg)
-![Image 9](./Task/assets/Media/image8.jpg)
-![Image 10](./Task/assets/Media/image9.jpg)
-![Image 11](./Task/assets/Media/image10.jpg)
-![Image 12](./Task/assets/Media/image11.jpg)
-![Image 13](./Task/assets/Media/image12.jpg)
-![Image 14](./Task/assets/Media/image13.jpg)
-![Image 15](./Task/assets/Media/image14.jpg)
-![Image 16](./Task/assets/Media/image15.jpg)
-![Image 16](./Task/assets/Media/image16s.jpg)
+<img src="./Task/assets/Media/image1.jpg" alt="Image 1" width="300" height="200">
+<img src="./Task/assets/Media/image2.jpg" alt="Image 2" width="300" height="200">
+<img src="./Task/assets/Media/image3.jpg" alt="Image 3" width="300" height="200">
+<img src="./Task/assets/Media/image4.jpg" alt="Image 4" width="300" height="200">
+<img src="./Task/assets/Media/image5.jpg" alt="Image 5" width="300" height="200">
+<img src="./Task/assets/Media/image6.jpg" alt="Image 6" width="300" height="200">
+<img src="./Task/assets/Media/image7.jpg" alt="Image 7" width="300" height="200">
+<img src="./Task/assets/Media/image8.jpg" alt="Image 8" width="300" height="200">
+<img src="./Task/assets/Media/image9.jpg" alt="Image 9" width="300" height="200">
+<img src="./Task/assets/Media/image10.jpg" alt="Image 10" width="300" height="200">
+<img src="./Task/assets/Media/image11.jpg" alt="Image 11" width="300" height="200">
+<img src="./Task/assets/Media/image12.jpg" alt="Image 12" width="300" height="200">
+<img src="./Task/assets/Media/image13.jpg" alt="Image 13" width="300" height="200">
+<img src="./Task/assets/Media/image14.jpg" alt="Image 14" width="300" height="200">
+<img src="./Task/assets/Media/image15.jpg" alt="Image 15" width="300" height="200">
+<img src="./Task/assets/Media/image16s.jpg" alt="Image 16" width="300" height="200">
 
 ### Video
 
-![Video 1](./Task//assets//Media/video.mp4)
+<video width="320" height="240" controls>
+  <source src="./Task/assets/Media/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
