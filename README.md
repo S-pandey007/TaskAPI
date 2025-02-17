@@ -50,21 +50,21 @@ The `assets` folder contains media files such as images and videos. These files 
 ### Images
 
 <img src="./Task/assets/Media/image1.jpg" alt="Image 1" style="max-width: 100%; height: auto;">
-<img src="./Task/assets/Media/image2.jpg" alt="Image 2" width="300" height="200">
-<img src="./Task/assets/Media/image3.jpg" alt="Image 3" width="300" height="200">
-<img src="./Task/assets/Media/image4.jpg" alt="Image 4" width="300" height="200">
-<img src="./Task/assets/Media/image5.jpg" alt="Image 5" width="300" height="200">
-<img src="./Task/assets/Media/image6.jpg" alt="Image 6" width="300" height="200">
-<img src="./Task/assets/Media/image7.jpg" alt="Image 7" width="300" height="200">
-<img src="./Task/assets/Media/image8.jpg" alt="Image 8" width="300" height="200">
-<img src="./Task/assets/Media/image9.jpg" alt="Image 9" width="300" height="200">
-<img src="./Task/assets/Media/image10.jpg" alt="Image 10" width="300" height="200">
-<img src="./Task/assets/Media/image11.jpg" alt="Image 11" width="300" height="200">
-<img src="./Task/assets/Media/image12.jpg" alt="Image 12" width="300" height="200">
-<img src="./Task/assets/Media/image13.jpg" alt="Image 13" width="300" height="200">
-<img src="./Task/assets/Media/image14.jpg" alt="Image 14" width="300" height="200">
-<img src="./Task/assets/Media/image15.jpg" alt="Image 15" width="300" height="200">
-<img src="./Task/assets/Media/image16s.jpg" alt="Image 16" width="300" height="200">
+<img src="./Task/assets/Media/image2.jpg" alt="Image 2" style="max-width: 100%; height: auto;">
+<img src="./Task/assets/Media/image3.jpg" alt="Image 3" style="max-width: 100%; height: auto;">
+<img src="./Task/assets/Media/image4.jpg" alt="Image 4" style="max-width: 100%; height: auto;">
+<img src="./Task/assets/Media/image5.jpg" alt="Image 5" style="max-width: 100%; height: auto;">
+<img src="./Task/assets/Media/image6.jpg" alt="Image 6" style="max-width: 100%; height: auto;">
+<img src="./Task/assets/Media/image7.jpg" alt="Image 7" style="max-width: 100%; height: auto;">
+<img src="./Task/assets/Media/image8.jpg" alt="Image 8" style="max-width: 100%; height: auto;">
+<img src="./Task/assets/Media/image9.jpg" alt="Image 9" style="max-width: 100%; height: auto;">
+<img src="./Task/assets/Media/image10.jpg" alt="Image 10" style="max-width: 100%; height: auto;">
+<img src="./Task/assets/Media/image11.jpg" alt="Image 11" style="max-width: 100%; height: auto;">
+<img src="./Task/assets/Media/image12.jpg" alt="Image 12" style="max-width: 100%; height: auto;">
+<img src="./Task/assets/Media/image13.jpg" alt="Image 13" style="max-width: 100%; height: auto;">
+<img src="./Task/assets/Media/image14.jpg" alt="Image 14" style="max-width: 100%; height: auto;">
+<img src="./Task/assets/Media/image15.jpg" alt="Image 15" style="max-width: 100%; height: auto;">
+<img src="./Task/assets/Media/image16s.jpg" alt="Image 16" style="max-width: 100%; height: auto;">
 
 ### Video
 
